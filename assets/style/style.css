@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button {
+  width: 50px;
+  display: block;
+  margin-right: 50px;
+  margin-bottom: 30px;
+}
+output {
+  display: block;
+  width: 80px;
+  height: 30px;
+  border: 1px solid black;
+}
+#dollar {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
